@@ -30,7 +30,7 @@ public class RegisterController {
         return   ResponseEntity.ok(registerService.register(dataRegister));
 
 
-         
+
     }
 
 
